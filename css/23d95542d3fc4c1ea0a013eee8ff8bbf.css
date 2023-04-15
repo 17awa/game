@@ -17,7 +17,7 @@ main{padding:13.75rem 0 13.125rem 0;}
 #download dl dd em{display:inline-block; background-repeat:no-repeat; background-position:left center;}
 #download dl dd.ios em{padding-left:2.75rem; background-image:url(../img/e2b06801fb4f4bbab64511e4bd4360e4.png); background-size:1.5rem 1.875rem;}
 #download dl dd.android em{padding-left:2.875rem; background-image:url(../img/84a5e3f746ad4c5e8b27fb1b0ca5b5c6.png); background-size:1.625rem 1.875rem;}
-#download dl dd.win em{padding-left:2.875rem; background-image:url(../img/Windows.png); background-size:1.625rem 1.875rem;}
+#download dl dd.win em{padding-left:2.875rem; background-image:url(https://i.imgtg.com/2023/04/15/Xh38I.png); background-size:1.625rem 1.875rem;}
 #download dl dd.code em{padding-left:2.875rem; background-image:url(../img/code.png); background-size:1.625rem 1.875rem;}
 
 footer{left:0; bottom:0; width:100%; height:3.125rem; line-height:3.125rem; background:#177dff; font-size:0.875rem; color:#fff;}
